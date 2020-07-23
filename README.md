@@ -18,18 +18,20 @@ This will create a JSON called *markerData* that can be used in a *Datawrapper l
 
 ## Notes
 
-A list of repos that use DWD data (scroll down): https://github.com/panodata/dwdweather2
+A list of repos that use DWD data (scroll down): 
+- https://github.com/panodata/dwdweather2
 
-Inspiration repo: https://github.com/FL550/simple_dwd_weatherforecast
+Inspiration repo: 
+- https://github.com/FL550/simple_dwd_weatherforecast
 
 List of all weather stations:
-https://www.dwd.de/DE/leistungen/klimadatendeutschland/statliste/statlex_html.html?view=nasPublication&nn=16102
+- https://www.dwd.de/DE/leistungen/klimadatendeutschland/statliste/statlex_html.html?view=nasPublication&nn=16102
 
 A useful source of active sations: 
-https://github.com/FL550/simple_dwd_weatherforecast/blob/master/simple_dwd_weatherforecast/mosmix_stationskatalog.txt
+- https://github.com/FL550/simple_dwd_weatherforecast/blob/master/simple_dwd_weatherforecast/mosmix_stationskatalog.txt
 
 List of weather conditions and priority:
-https://www.dwd.de/DE/leistungen/opendata/help/schluessel_datenformate/kml/mosmix_element_weather_xls.xlsx?__blob=publicationFile&v=4
+- https://www.dwd.de/DE/leistungen/opendata/help/schluessel_datenformate/kml/mosmix_element_weather_xls.xlsx?__blob=publicationFile&v=4
 
 ## Licenses
 
