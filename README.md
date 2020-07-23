@@ -14,7 +14,7 @@ A script that scrapes tomorrow's weather data (max. temperature and weather cond
 
     node index
 
-This will create a JSON called *markerData* that can be used in a *Datawrapper locator map*.
+This will create a JSON called *markerData* that can be used for a *Datawrapper locator map*.
 
 ## Notes
 
