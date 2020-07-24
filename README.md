@@ -4,7 +4,9 @@ DISCLAIMER: This project is a private open source project and doesn't have any c
 
 ## Description
 
-A script that scrapes tomorrow's weather data (max. temperature and weather condition) for some weather stations from the [German Meteorological Service (DWD)](https://dwd.de/). It then parses that data so that it can be used as a dataset for a [Datawrapper](datawrapper.de/) **locator map**.
+A script that scrapes tomorrow's weather data (max. temperature and weather condition) for some weather stations from the [German Meteorological Service (DWD)](https://dwd.de/). It then parses that data so that it can be used as a dataset for a [Datawrapper](datawrapper.de/) **locator map**. 
+
+You can find out more about this process on the [Datawrapper Blog](https://blog.datawrapper.de/weather-map/).
 
 ## Setup
 
